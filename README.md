@@ -1,1 +1,7 @@
-# git-hub-actions
+## GitHub Actions
+
+```
+npm run dev
+npm run test
+```
+
