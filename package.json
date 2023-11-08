@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "second-action-react-js/node_modules/.bin/vite",
-    "build": "second-action-react-js/node_modules/.bin/vite build",
-    "preview": "second-action-react-js/node_modules/.bin/vite preview",
-    "test": "second-action-react-js/node_modules/.bin/vitest run"
+    "dev": "node_modules/.bin/vite",
+    "build": "node_modules/.bin/vite build",
+    "preview": "node_modules/.bin/vite preview",
+    "test": "node_modules/.bin/vitest run"
   },
   "dependencies": {
     "react": "^18.2.0",
